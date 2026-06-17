@@ -9,8 +9,6 @@ terraform {
       name = "poc-15"
     }
   }
-}
-
   required_providers {
     azurerm = {
       source  = "hashicorp/azurerm"
